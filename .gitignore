@@ -1,1 +1,6 @@
 *.nc
+argotrajplot/.vscode/
+argotrajplot/__pycache__/
+.vscode/
+.ipynb_checkpoints/
+__pycache__/
